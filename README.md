@@ -37,21 +37,22 @@ El contenido debe ser desarrollado.
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-En este punto se debe explicar cómo funcionan la implementación del circuito y los cálculos de respaldo.
+![image](https://user-images.githubusercontent.com/105570939/185944252-e798de63-ab33-4046-b954-27438111df03.png)
 
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
-* Diagramas de bloques.
-* Diagramas UML. (casos de uso-clase)
-* Diagramas eléctricos.
-* Diagramas esquemáticos.
+![image](https://user-images.githubusercontent.com/105570939/185947179-7037561d-8b68-45b7-96a5-af7f9f9bb109.png)
 
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
+**1.-Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.**
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+![image](https://user-images.githubusercontent.com/105570939/185947683-348e1fec-c614-4232-9239-43ecf6028319.png)
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama2.jpg)
+**2.-Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.**
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
+![descarga](https://user-images.githubusercontent.com/105570939/185948959-a11af2d5-c9e7-4f77-a8d5-2842b0fedc62.png)
+
+**3.-Con el multímetro digital mida el voltaje de salida en RL**
+
+![image](https://user-images.githubusercontent.com/105570939/185953415-9cb93159-aa3c-493f-a7d3-8b7db7def021.png)
+
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
