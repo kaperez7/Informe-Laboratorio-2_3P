@@ -77,11 +77,11 @@ f: 2.5 k (Hz)
 
 **7.-Con el multímetro digital mida el voltaje de salida en RL**
 
-4.042 V
+4.834 V
 
 **8.-Compare el voltaje medido en el punto 5 y el obtenido en el punto 7. ¿Coinciden? ¿Por qué?**
 
-El voltaje obtenido en el punto 5 es de 6,87 V mientras que en el punto 7 tiene un valor de 4.042 V por lo que no coinciden porque el primer valor es obtenido del osciloscopio que da el valor del voltaje pico, mientras que el segundo valor es obtenido del multimetro que da un valor eficaz es decir Vrms.
+El voltaje obtenido en el punto 5 es de 6,87 V mientras que en el punto 7 tiene un valor de 4.834 V por lo que no coinciden porque el primer valor es obtenido del osciloscopio que da el valor del voltaje pico, mientras que el segundo valor es obtenido del multimetro que da un valor eficaz es decir Vrms.
 
 5. VIDEO
 
