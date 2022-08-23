@@ -11,17 +11,15 @@ Determinar experimentalmente las características de señales senoidales, median
 
 2. MARCO TEÓRICO 
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
+![image](https://user-images.githubusercontent.com/105679480/186152590-be6f29d9-39b0-4b9b-b144-f5952ab71f49.png)
+![image](https://user-images.githubusercontent.com/105679480/186152655-e140baf3-4703-479d-990a-4431b7c62e6d.png)
+![image](https://user-images.githubusercontent.com/105679480/186152735-7d9cbc18-c05e-4593-95fc-b989d4024844.png)
+![image](https://user-images.githubusercontent.com/105679480/186152799-7c30e35f-60e9-4219-b468-119a49be3e7e.png)
+![image](https://user-images.githubusercontent.com/105679480/186152837-2514ae82-3932-47e6-8038-46560b38647b.png)
+![image](https://user-images.githubusercontent.com/105679480/186153470-beb0f4f3-5aac-4999-8b96-5e6d0d0b5477.png)
 
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
 
-El contenido debe ser desarrollado.
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -95,7 +93,11 @@ https://youtu.be/K7hObn9ANQ0
 
 7. BIBLIOGRAFÍA
 
-Emplear normas APA para el informe e IEEE para el artículo
+Zapata, F. (2019, 22 agosto). Onda senoidal: características, partes, cálculo, ejemplos. Lifeder. Recuperado 16 de agosto de 2022, de https://www.lifeder.com/onda-senoidal/
+
+
+Glosario: Corriente alterna y corriente continua. (s. f.). HEATH. Recuperado 16 de agosto de 2022, de https://ec.europa.eu/health/scientific_committees/opinions_layman/es/campos-electromagneticos/glosario/abc/corriente-alterna.htm#:%7E:text=La%20corriente%20alterna%20(CA)%20es,la%20pared%20es%20corriente%20alterna.
+
 
 
 RUBRICA
