@@ -82,7 +82,7 @@ El voltaje obtenido en el punto 5 es de 6,87 V mientras que en el punto 7 tiene 
 
 5. VIDEO
 
-https://youtu.be/K7hObn9ANQ0
+https://youtu.be/F96UfZsLKvg
 
 6. CONCLUSIONES
 
