@@ -15,7 +15,9 @@ Determinar experimentalmente las características de señales senoidales, median
 ![image](https://user-images.githubusercontent.com/105679480/186152590-be6f29d9-39b0-4b9b-b144-f5952ab71f49.png)
 ![image](https://user-images.githubusercontent.com/105679480/186152655-e140baf3-4703-479d-990a-4431b7c62e6d.png)
 ![image](https://user-images.githubusercontent.com/105679480/186152735-7d9cbc18-c05e-4593-95fc-b989d4024844.png)
-![image](https://user-images.githubusercontent.com/105679480/186152799-7c30e35f-60e9-4219-b468-119a49be3e7e.png)
+![image](https://user-images.githubusercontent.com/105679480/186153847-1b5525ab-542f-45be-93bb-f441a459dd2f.png)
+
+! [imagen] (https://user-images.githubusercontent.com/105679480/186152799-7c30e35f-60e9-4219-b468-119a49be3e7e.png)
 ![image](https://user-images.githubusercontent.com/105679480/186152837-2514ae82-3932-47e6-8038-46560b38647b.png)
 ![image](https://user-images.githubusercontent.com/105679480/186153470-beb0f4f3-5aac-4999-8b96-5e6d0d0b5477.png)
 
