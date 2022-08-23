@@ -39,7 +39,7 @@ El contenido debe ser desarrollado.
 
 **3.-Con el multímetro digital mida el voltaje de salida en RL**
 
-![image](https://user-images.githubusercontent.com/105570939/185953415-9cb93159-aa3c-493f-a7d3-8b7db7def021.png)
+![image](https://user-images.githubusercontent.com/105570939/186044531-b14fff78-886b-4f0d-8fd1-e1bdfe42a08f.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
