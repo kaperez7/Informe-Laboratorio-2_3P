@@ -60,7 +60,7 @@ Esta posicionado en el valor de 0.1ms.
 
 **Amplitud de voltaje:** 6.87 V.
 
-**Periodo:** (4)(0.001)= 400 uS.
+**Periodo:** (4)(0.001)= 400u s.
 
 **6.-Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.**
 
